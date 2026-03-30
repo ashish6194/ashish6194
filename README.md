@@ -15,7 +15,7 @@ I'm **Ashish Kumar Sharma**, a QA Automation Engineer with **6+ years** of hands
 
 ✅ **6+ years** in QA automation testing (web & mobile)
 
-✅ Built and maintained **500+ automated test cases** using Serenity BDD framework
+✅ Built and maintained **1000+ automated test cases** using Serenity BDD framework
 
 ✅ **40% reduction** in regression testing time through framework optimization
 
@@ -66,7 +66,7 @@ I'm **Ashish Kumar Sharma**, a QA Automation Engineer with **6+ years** of hands
 - Optimized test data management for better maintainability
 
 🎖️ **Test Coverage Expansion**
-- Created **500+ comprehensive automated test cases** across web and mobile platforms
+- Created **1000+ comprehensive automated test cases** across web and mobile platforms
 - Achieved **85%+ code coverage** for critical user workflows
 - Implemented end-to-end test scenarios using Serenity BDD
 
@@ -108,7 +108,7 @@ I'm **Ashish Kumar Sharma**, a QA Automation Engineer with **6+ years** of hands
 
 ## 📊 Statistics
 
-- **500+** Automated Test Cases Designed
+- **1000+** Automated Test Cases Designed
 - **6+** Years of Professional Experience
 - **4+** Team Members Mentored
 - **40%** Improvement in Test Execution Time
